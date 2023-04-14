@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MorningSimpleLists</string>
+    <string-array name= "contacts">
+        <item>Josiah</item>
+        <item>James</item>
+        <item>Lornah</item>
+        <item>Moses</item>
+        <item>Mitchelle</item>
+        <item>Abdi</item>
+        <item>Ephraim</item>
+        <item>Tapiwa</item>
+        <item>Emmmanuel</item>
+        <item>Quinton</item>
+        <item>Brian</item>
+        <item>Ryan</item>
+        <item>Donald</item>
+        <item>Patrick</item>
+        <item>Leah</item>
+        <item>Bobby</item>
+        <item>Janet</item>
+        <item>Jared</item>
+        <item>Walter</item>
+        <item>Karen</item>
+        <item>Glory</item>
+        <item>Elsie</item>
+        <item>Janice</item>
+        <item>Dennis</item>
+    </string-array>
+</resources>
